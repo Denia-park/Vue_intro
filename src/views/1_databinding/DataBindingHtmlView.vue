@@ -9,7 +9,6 @@
 
 <script>
 export default {
-  name: 'FileName',
   components: {},
   data () {
     return {
